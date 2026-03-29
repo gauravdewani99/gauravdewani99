@@ -1,6 +1,6 @@
-Hey!
+# Hey, I'm Gaurav
 
-I'm Gaurav. Thanks for visiting my corner of the internet!
+Thanks for visiting my corner of the internet!
 
 My interests lie at the nexus of product, behavioural science, and AI.
 
